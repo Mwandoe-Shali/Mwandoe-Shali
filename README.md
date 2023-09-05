@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<a Mwandoe-Shali="https://app.daily.dev/DailyDevTips"><img src="https://github.com/Mwandoe-Shali/Mwandoe-Shali/blob/master/devcard.svg" width="400" alt="Mwandoe Shali's Dev Card"/></a>
+<a href="https://app.daily.dev/DailyDevTips"><img src="https://github.com/Mwandoe-Shali/Mwandoe-Shali/blob/master/devcard.svg" width="400" alt="Mwandoe Shali's Dev Card"/></a>
